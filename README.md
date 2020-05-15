@@ -7,6 +7,8 @@ Mettl platform: Database Programmer Scoring. ... Mettl's flexible platform lets 
 Program Description:
                 For a given logic building program we would be print the output in the form of string. 
                 
+                prototype: String(String input1)  //method to call
+                
                rules:
                      1. If the input String length is exceed 10, then output would be
                      Example:
